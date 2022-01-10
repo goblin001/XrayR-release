@@ -15,9 +15,9 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, , Proxypanel
     ApiConfig:
-      ApiHost: "https://dsvps.xyz"
+      ApiHost: "https://githua.cc"
       ApiKey: "LV6aG0Ae1fOO47Wz"
-      NodeID: 2
+      NodeID: 1
       NodeType: V2ray # Node type: V2ray, Shadowsocks, Trojan, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
