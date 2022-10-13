@@ -48,7 +48,7 @@ Nodes:
         Email: 110539hang@gmail.com
         DNSEnv: # DNS ENV option used by DNS provider
           CLOUDFLARE_EMAIL: 110539hang@gmail.com
-          CLOUDFLARE_API_KEY: 878bf37bb0fb3a818009760ced2691ef45867
+          CLOUDFLARE_API_KEY：YyJyBV790SStplMLmIHsVQDLWR_cKGvzKebXcQB2
   # -
   #   PanelType: "V2board" # Panel type: SSpanel, V2board
   #   ApiConfig:
